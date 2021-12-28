@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a166c9d9-8514-4fa6-8daa-f8113c0e7393" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/detr/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/detr/.circleci/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/.github/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/detr/.github/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/.github/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/detr/.github/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/.github/ISSUE_TEMPLATE/bugs.md" beforeDir="false" afterPath="$PROJECT_DIR$/detr/.github/ISSUE_TEMPLATE/bugs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/.github/ISSUE_TEMPLATE/questions-help-support.md" beforeDir="false" afterPath="$PROJECT_DIR$/detr/.github/ISSUE_TEMPLATE/questions-help-support.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/.github/ISSUE_TEMPLATE/unexpected-problems-bugs.md" beforeDir="false" afterPath="$PROJECT_DIR$/detr/.github/ISSUE_TEMPLATE/unexpected-problems-bugs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/detr/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/detr/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/detr/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/detr/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/d2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/detr/d2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/d2/configs/detr_256_6_6_torchvision.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/detr/d2/configs/detr_256_6_6_torchvision.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/d2/configs/detr_segm_256_6_6_torchvision.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/detr/d2/configs/detr_segm_256_6_6_torchvision.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/d2/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/d2/converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/d2/detr/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/d2/detr/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/d2/detr/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/d2/detr/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/d2/detr/dataset_mapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/d2/detr/dataset_mapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/d2/detr/detr.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/d2/detr/detr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/d2/train_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/d2/train_net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/datasets/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/datasets/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/datasets/coco.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/datasets/coco.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/datasets/coco_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/datasets/coco_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/datasets/coco_panoptic.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/datasets/coco_panoptic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/datasets/panoptic_eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/datasets/panoptic_eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/datasets/transforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/datasets/transforms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/hubconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/hubconf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/models/backbone.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/models/backbone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/models/detr.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/models/detr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/models/matcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/models/matcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/models/position_encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/models/position_encoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/models/segmentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/models/segmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/models/transformer.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/models/transformer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/detr/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/run_with_submitit.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/run_with_submitit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/test_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/test_all.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/tox.ini" beforeDir="false" afterPath="$PROJECT_DIR$/detr/tox.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/util/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/util/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/util/box_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/util/box_ops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/util/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/util/misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detr/util/plot_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/detr/util/plot_utils.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/detr" />
+  </component>
+  <component name="ProjectId" id="20csIlEYwBHgnv3EI2sdjck3wzP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../detr_tutorial_mod 20211214" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="SOD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="detr_SOD ver.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/detr/datasets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detr/datasets/SOD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="detr_SOD ver.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/detr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detr/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="detr_SOD ver.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/detr/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detr/util/plot_utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="result" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="detr_SOD ver.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/detr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detr/result.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="detr_SOD ver.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/detr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detr/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.result" />
+        <item itemvalue="Python.plot_utils" />
+        <item itemvalue="Python.SOD" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a166c9d9-8514-4fa6-8daa-f8113c0e7393" name="Default Changelist" comment="" />
+      <created>1636355132625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636355132625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Anaconda3/envs/Last1/Lib/pathlib.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
